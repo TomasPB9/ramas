@@ -1,3 +1,16 @@
 body{
     background-color: red;
 }
+
+.container-box{
+    background-color: rgb(230, 167, 167);
+}
+
+
+.container-box >h2{
+    color: white;
+}
+
+.container-box2 >h2{
+    color:black;
+}
